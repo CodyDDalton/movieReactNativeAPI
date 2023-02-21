@@ -1,1 +1,1 @@
-web: expo start --port $PORT
+web: npx serve web-build
