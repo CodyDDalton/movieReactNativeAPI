@@ -17,6 +17,7 @@ function HomeScreen({navigation}) {
   Network.getNetworkStateAsync().then(data => {
     console.log({data});
   });
+  
 
  
   
